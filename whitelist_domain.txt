@@ -28,3 +28,6 @@ whiskergalaxy.com
 riseup.net
 # spotify verification link
 wl.spotify.com
+# celcomdigi app whitelist for deals page
+appsflyersdk.com
+braze.eu
