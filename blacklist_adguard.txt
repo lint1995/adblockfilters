@@ -60,3 +60,6 @@
 
 # unitar ads on astoawani
 ||form.typeform.com/to/GSXKxiHz^
+
+# spotify
+||spclient.wg.spotify.com^
