@@ -62,4 +62,4 @@ headend-api.tonton.com.my
 #form.typeform.com/to/GSXKxiHz
 
 # spotify
-spclient.wg.spotify.com
+#spclient.wg.spotify.com
