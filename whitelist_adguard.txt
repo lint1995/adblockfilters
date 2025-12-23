@@ -32,4 +32,4 @@
 @@||appsflyersdk.com^
 @@||braze.eu^
 # bashupload cli upload and download
-@@||bashupload.com
+@@||bashupload.com^
