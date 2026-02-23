@@ -33,4 +33,6 @@ appsflyersdk.com
 braze.eu
 # bashupload cli upload and download
 bashupload.com
+# wise email unsubscribe link
+ablink.info.wise.com
 
