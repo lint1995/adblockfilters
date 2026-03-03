@@ -35,3 +35,5 @@
 @@||bashupload.com^
 # wise email unsubscribe link
 @@||ablink.info.wise.com^
+# digg email unsubscribe link
+@@||os-unsub-en.com^
