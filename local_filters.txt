@@ -95,3 +95,6 @@ xhamster.com##.SNFL-gU.SNFL-gU--middle.SNFL-gUno-ts-init
 
 ! 06 July 2025 https://gsmarena.com
 m.gsmarena.com##.d-flex.flex-column.justify-center.align-center
+
+! 03 March 2026 https://namepros.com
+www.namepros.com##[id^="_xfUid-"] > picture > .block-container
