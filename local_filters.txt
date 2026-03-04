@@ -100,4 +100,4 @@ m.gsmarena.com##.d-flex.flex-column.justify-center.align-center
 www.namepros.com##[id^="_xfUid-"] > picture > .block-container
 
 ! 04 March 2026 https://domainnamewire.com
-domainnamewire.com##div.after-entry > section.widget.widget_text
+domainnamewire.com##div.after-entry section.widget_text:has(center a)
