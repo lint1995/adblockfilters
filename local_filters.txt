@@ -89,6 +89,11 @@ m.gsmarena.com##.d-flex.flex-column.justify-center.align-center
 
 ! 03 March 2026 https://namepros.com
 www.namepros.com##[id^="_xfUid-"] picture
+www.namepros.com##.p-body-pageContent > .listing-container.npgen
+www.namepros.com##.notices.notices--block.js-notices > .notice.js-notice.notice--primary > .notice-content
+www.namepros.com##.content
+www.namepros.com##.branding
+www.namepros.com##.listing-container.npgen
 
 ! 04 March 2026 https://domainnamewire.com
 domainnamewire.com##div.after-entry section.widget_text:has(center a)
