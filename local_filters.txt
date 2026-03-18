@@ -94,6 +94,7 @@ www.namepros.com##.notices.notices--block.js-notices > .notice.js-notice.notice-
 www.namepros.com##.content
 www.namepros.com##.branding
 www.namepros.com##.listing-container.npgen
+www.namepros.com##.notice.js-notice.notice--primary.notice--hasImage
 
 ! 04 March 2026 https://domainnamewire.com
 domainnamewire.com##div.after-entry section.widget_text:has(center a)
