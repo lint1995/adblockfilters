@@ -95,6 +95,8 @@ www.namepros.com##.content
 www.namepros.com##.branding
 www.namepros.com##.listing-container.npgen
 www.namepros.com##.notice.js-notice.notice--primary.notice--hasImage
+www.namepros.com##.search-box > .input
+www.namepros.com##.np-domain-search-inner
 
 ! 04 March 2026 https://domainnamewire.com
 domainnamewire.com##div.after-entry section.widget_text:has(center a)
