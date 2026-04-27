@@ -9,6 +9,7 @@ www.wired.com###\34 16dcb-9aeb-b7de-9391-bb193bcc6230
 
 ! 29 Aug 2024 https://www.reddit.com
 www.reddit.com##.pt-\[var\(--page-y-padding\)\].overflow-visible > shreddit-async-loader
+www.reddit.com##div[class*="bottom-sheet"]
 
 ! 30 Aug 2024 https://forum.lowyat.net
 ||pictr.com/images/2024/06/15/x7nsJr.jpg$image
